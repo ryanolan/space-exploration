@@ -1,0 +1,18 @@
+body {
+  color: white;
+  background-image: url("images/universe.jpg");
+  background-size: cover;
+}
+
+h1 {
+    text-align: center;
+}
+
+.btn-apply {
+    display: block;
+    margin: auto;
+    padding: 6px 12px;
+    border-style: none;
+    border-radius: 0;
+    background: white;
+}
