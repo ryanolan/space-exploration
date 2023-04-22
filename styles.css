@@ -2,6 +2,7 @@ body {
   color: white;
   background-image: url("images/universe.jpg");
   background-size: cover;
+  font-family: 'Orbitron', sans-serif;
 }
 
 h1 {
@@ -9,6 +10,7 @@ h1 {
 }
 
 .btn-apply {
+    font-family: inherit;
     display: block;
     margin: auto;
     padding: 6px 12px;
