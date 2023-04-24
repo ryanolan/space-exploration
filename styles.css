@@ -24,6 +24,7 @@ body {
 
 h1 {
   text-align: center;
+  text-shadow: 0 0 4px black;
   font-family: space-power;
   letter-spacing: 3px;
 }
